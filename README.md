@@ -85,7 +85,7 @@ Security implementation details are intentionally excluded from this public repo
 | Analytics | `assets/analytics.png` |
 | Product management | `assets/product-management.png` |
 
-Visual assets will be added only after completing the [privacy checklist](docs/privacy-checklist.md).
+Visual assets will be added only after review and redaction.
 
 ## My Role
 
