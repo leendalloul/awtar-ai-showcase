@@ -74,18 +74,17 @@ Security implementation details are intentionally excluded from this public repo
 
 ## Screenshots
 
-> **Publication warning:** Every screenshot must be reviewed and redacted before publication. Remove customer data, credentials, identifiers, internal URLs, browser tabs, logs, and other sensitive information.
+### Operations Dashboard
 
-| Product area | Planned asset |
-| --- | --- |
-| Dashboard | `assets/dashboard.png` |
-| AI setup | `assets/ai-setup.png` |
-| Inbox | `assets/inbox.png` |
-| Knowledge base | `assets/knowledge-base.png` |
-| Analytics | `assets/analytics.png` |
-| Product management | `assets/product-management.png` |
+The dashboard gives business teams a quick view of conversation activity, open work, integration health, and AI coaching recommendations.
 
-Visual assets will be added only after review and redaction.
+![Awtar AI operations dashboard](assets/dashboard.png)
+
+### Human-in-the-Loop Support
+
+When verified information is unavailable, Awtar AI can pause automation and request a precise answer from the team instead of guessing. The interface preserves the customer context and clearly shows what information is needed.
+
+![Awtar AI requesting team input for an unanswered customer question](assets/team-handoff.png)
 
 ## My Role
 

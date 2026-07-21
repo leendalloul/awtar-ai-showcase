@@ -1,15 +1,11 @@
 # Product Visuals
 
-This directory is reserved for approved, publication-ready Awtar AI product visuals.
+This directory contains approved, publication-ready Awtar AI product visuals.
 
-Planned filenames:
+Published visuals:
 
-- `dashboard.png`
-- `ai-setup.png`
-- `inbox.png`
-- `knowledge-base.png`
-- `analytics.png`
-- `product-management.png`
+- `dashboard.png` — operations dashboard and business health overview
+- `team-handoff.png` — human-in-the-loop workflow for missing information
 
 Do not add raw or unreviewed screenshots. Before publishing an image:
 
