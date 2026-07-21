@@ -16,12 +16,15 @@ Small and medium-sized businesses often handle repetitive customer questions acr
 
 The platform is designed to help teams organize business knowledge, automate appropriate conversations, manage customer chats, and allow staff to step in when human attention is needed.
 
+WhatsApp conversations stay synchronized with the Awtar AI dashboard, including messages sent or received through the connected WhatsApp Business app, so AI and human staff can work from a shared conversation history.
+
 ## Core Features
 
 - AI-powered WhatsApp customer support
 - Multi-tenant business architecture
 - Secure business onboarding
 - Meta WhatsApp Business Platform integration
+- Two-way WhatsApp Business app and dashboard message synchronization
 - Semantic search and structured knowledge retrieval
 - Business-specific knowledge bases
 - Products, services, offers, policies, and FAQ support
